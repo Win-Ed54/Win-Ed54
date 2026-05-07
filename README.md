@@ -1,12 +1,12 @@
-# Hola, soy Edwin 👋
+# Hola, soy Edwin Fernandez
 
 Soy **Ingeniero en Diseño y Desarrollo de Videojuegos**, con interés en desarrollo de software, soporte IT y aplicaciones web.
 
-Actualmente estoy construyendo proyectos con **C#/.NET, React, MongoDB, Docker y GitHub**, reforzando buenas prácticas de programación, arquitectura y organización de proyectos.
+Actualmente estoy fortaleciendo mi portafolio con proyectos en **C#/.NET, React, MongoDB, Docker y GitHub**.
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tecnologías
 
 - C# / .NET 8
 - React + Vite
@@ -14,8 +14,7 @@ Actualmente estoy construyendo proyectos con **C#/.NET, React, MongoDB, Docker y
 - Docker
 - SignalR
 - Git / GitHub
-- Fundamentos de redes
-- Soporte IT
+- Redes y soporte IT
 - Desarrollo de videojuegos
 - Arte 2D / 3D
 
@@ -29,18 +28,6 @@ Sistema full stack para gestión de órdenes en restaurante, con pantallas para 
 
 **Tecnologías:** ASP.NET Core 8, MongoDB, React, SignalR y Docker.
 
-**Características principales:**
-
-- Gestión de órdenes en tiempo real.
-- Pantalla KDS para cocina.
-- Vista para meseros.
-- Panel administrativo.
-- Módulo de caja.
-- Autenticación por roles.
-- Actualizaciones en tiempo real con SignalR.
-- Base de datos con MongoDB.
-- Ejecución mediante Docker.
-
 ---
 
 ### Personal Finance Console
@@ -48,15 +35,6 @@ Sistema full stack para gestión de órdenes en restaurante, con pantallas para 
 Aplicación de consola en C# para registrar ingresos, gastos, balances y reportes básicos.
 
 **Tecnologías:** C# y .NET 8.
-
-**Características principales:**
-
-- Registro de ingresos.
-- Registro de gastos.
-- Cálculo de balance.
-- Reportes por categoría.
-- Reportes por mes.
-- Menú interactivo desde consola.
 
 ---
 
@@ -66,15 +44,6 @@ Aplicación de consola en C# para generar contraseñas seguras y administrar cue
 
 **Tecnologías:** C# y .NET 8.
 
-**Características principales:**
-
-- Generación de contraseñas seguras.
-- Registro de cuentas.
-- Búsqueda por sitio, usuario o categoría.
-- Eliminación de cuentas.
-- Exportación de reporte básico.
-- Validaciones desde consola.
-
 ---
 
 ## 🎯 Actualmente estoy enfocado en
@@ -83,28 +52,6 @@ Aplicación de consola en C# para generar contraseñas seguras y administrar cue
 - Reforzar inglés técnico.
 - Aplicar a oportunidades en IT, soporte técnico o desarrollo junior.
 - Seguir creando proyectos prácticos con C#, .NET y React.
-- Mejorar la presentación de mis proyectos en GitHub y LinkedIn.
-
----
-
-## 📚 Formación y áreas de interés
-
-- Ingeniería en Diseño y Desarrollo de Videojuegos.
-- Desarrollo full stack.
-- Soporte técnico / IT.
-- Redes y fundamentos de infraestructura.
-- Desarrollo de aplicaciones web.
-- Sistemas internos para negocios.
-- Diseño de interfaces.
-- Arte digital 2D y 3D.
-
----
-
-## 🧩 Perfil profesional
-
-Me interesa crear soluciones prácticas que combinen lógica de programación, diseño de interfaces y resolución de problemas reales.
-
-Actualmente estoy orientando mi portafolio hacia proyectos que demuestren organización, buenas prácticas, uso de tecnologías modernas y capacidad para construir sistemas funcionales de principio a fin.
 
 ---
 
