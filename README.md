@@ -6,7 +6,7 @@ Actualmente estoy fortaleciendo mi portafolio con proyectos en **C#/.NET, React,
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 - C# / .NET 8
 - React + Vite
@@ -20,7 +20,7 @@ Actualmente estoy fortaleciendo mi portafolio con proyectos en **C#/.NET, React,
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 ### Sistema KDS para restaurantes
 
@@ -46,7 +46,7 @@ Aplicación de consola en C# para generar contraseñas seguras y administrar cue
 
 ---
 
-## 🎯 Actualmente estoy enfocado en
+## Actualmente estoy enfocado en
 
 - Fortalecer mi portafolio profesional.
 - Reforzar inglés técnico.
@@ -55,6 +55,6 @@ Aplicación de consola en C# para generar contraseñas seguras y administrar cue
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - GitHub: [Win-Ed54](https://github.com/Win-Ed54)
