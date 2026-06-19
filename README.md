@@ -24,7 +24,7 @@ Actualmente estoy fortaleciendo mi portafolio con proyectos en **C#/.NET, React,
 
 ### Sistema KDS para restaurantes
 
-Sistema full stack para gestión de órdenes en restaurante, con pantallas para cocina, mesero, administración y caja.
+Sistema full stack para gestión de órdenes en restaurante, con pantallas para anfitrion,cocina, mesero, administración y caja.
 
 **Tecnologías:** ASP.NET Core 8, MongoDB, React, SignalR y Docker.
 
@@ -58,3 +58,4 @@ Aplicación de consola en C# para generar contraseñas seguras y administrar cue
 ## Contacto
 
 - GitHub: [Win-Ed54](https://github.com/Win-Ed54)
+- Linkedin:
